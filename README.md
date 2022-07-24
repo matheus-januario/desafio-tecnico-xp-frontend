@@ -134,6 +134,14 @@ Segue abaixo um diagrama ilustrando os caminhos entre as páginas, os estados gl
 
 Aagradeço a atenção! :rocket::rocket::rocket:
 
+### Deploy
+
+Para deploy, escolhi a plataforma [GitHub Pages](https://pages.github.com/), o link para a página da aplicação segue abaixo.
+
+```bash
+   https://matheus-januario.github.io/
+```
+
 #### 🔗 Link:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusjanuario/)
